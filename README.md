@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif"
 
-- 🌱 I enhanced my skills in **Python,Execl,SQL,Power BI, Machine learning**
+- 🌱 I enhanced my skills in **Python,Excel,SQL,Power BI, Machine learning**
 
 - 📝 I write articles on [https://medium.com/@geethasreemattaparthi](https://medium.com/@geethasreemattaparthi)
 
